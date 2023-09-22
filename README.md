@@ -1,16 +1,24 @@
-### Hi there 👋
+# Olá, eu sou Carlos A. Oliveira 👋
 
-<!--
-**carlossoliveiraa/carlossoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🔭 Adotante do DDD (Domain-Driven Design).
+- 🌱 Atualmente estou aprendendo sobre Arquiteturas Distribuídas.
+- 👯 Estou buscando oportunidades de colaboração para aplicar meus conhecimentos em C#.
+- 🤓 Estou estudando Node.js e como ele pode ser usado em sistemas distribuídos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre minha carreira
+
+- 💜 Apaixonado por C#, sempre.
+- 😁 Especializado atualmente em Arquitetura Distribuída.
+- ❤️ Amo boas práticas e padrões de design.
+
+## Tecnologias de ponta
+
+- .NET
+- C#
+- Node.js
+- Angular
+
+
+Vamos colaborar e criar coisas incríveis juntos! 😊
