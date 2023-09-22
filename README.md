@@ -1,11 +1,14 @@
-# Olá, eu sou Carlos A. Oliveira 👋
+#  Olá! Bem-vindos ao meu GitHub! 👋
+
+Sempre será um prazer contribuir para o conhecimento de todos os amantes da tecnologia.
 
 ## Sobre mim
 
-- 🔭 Adotante do DDD (Domain-Driven Design).
+- 🔭 Entusiasta do DDD (Domain-Driven Design).
 - 🌱 Atualmente estou aprendendo sobre Arquiteturas Distribuídas.
 - 👯 Estou buscando oportunidades de colaboração para aplicar meus conhecimentos em C#.
 - 🤓 Estou estudando Node.js e como ele pode ser usado em sistemas distribuídos.
+- 💑 Casado com Priscila e pai de uma cachorrinha chamda Bibi. Toco violão e viola 🎸.
 
 ## Sobre minha carreira
 
