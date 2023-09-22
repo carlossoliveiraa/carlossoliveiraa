@@ -23,5 +23,6 @@ Sempre será um prazer contribuir para o conhecimento de todos os amantes da tec
 - Node.js
 - Angular
 
+Azure AWS Docker Csharp DotNet NetCore Angular Ts Js MongoDb MySql MsSql
 
 Vamos colaborar e criar coisas incríveis juntos! 😊
