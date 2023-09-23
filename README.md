@@ -1,6 +1,4 @@
-#  Olá! Bem-vindos ao meu GitHub! 👋
-
-Sempre será um prazer contribuir para o conhecimento de todos os amantes da tecnologia.
+#  Olá! sejam todos bem-vindos! 👋
 
 ## Sobre mim
 
