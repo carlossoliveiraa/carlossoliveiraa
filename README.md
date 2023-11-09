@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 💑 Casado com Priscila e pai de uma cachorrinha chamda Bibi. Toco violão e viola 🎸.
--  🐵🦊🐯  Um apaixonado protetor dos indefesos, dedicado incansavelmente a cuidar dos animais, buscando criar um mundo onde suas vidas sejam valorizadas e respeitadas.
+-  🐱🐶🦜🦊  Um apaixonado protetor dos indefesos, dedicado incansavelmente a cuidar dos animais, buscando criar um mundo onde suas vidas sejam valorizadas e respeitadas.
 
 ## Sobre minha carreira
 - 🔭 DDD (Domain-Driven Design).
