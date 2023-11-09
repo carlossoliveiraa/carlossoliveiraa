@@ -13,6 +13,7 @@
 - 💜 Apaixonado por C#, sempre.
 - 😁 Especializando atualmente em Arquitetura Distribuída.
 - ❤️ Amo boas práticas e padrões de design.
+- 🐵🦊🐯  Um apaixonado protetor dos indefesos, dedicado incansavelmente a cuidar dos animais, buscando criar um mundo onde suas vidas sejam valorizadas e respeitadas.
 
 ## Tecnologias de ponta
 
