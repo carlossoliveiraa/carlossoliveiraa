@@ -1,18 +1,16 @@
 #  Olá! sejam todos bem-vindos! 👋
 
 ## Sobre mim
-
-- 🔭 DDD (Domain-Driven Design).
-- 🌱 Atualmente estou aprendendo sobre Arquiteturas Distribuídas.
-- 👯 Colaboração para aplicar meus conhecimentos em C#.
-- 🤓 Estou estudando Node.js e como ele pode ser usado em sistemas distribuídos.
 - 💑 Casado com Priscila e pai de uma cachorrinha chamda Bibi. Toco violão e viola 🎸.
+-  🐵🦊🐯  Um apaixonado protetor dos indefesos, dedicado incansavelmente a cuidar dos animais, buscando criar um mundo onde suas vidas sejam valorizadas e respeitadas.
 
 ## Sobre minha carreira
-
-- 💜 Apaixonado por C#, sempre. 😁 Especializando atualmente em Arquitetura Distribuída. 
+- 🔭 DDD (Domain-Driven Design).
+- - 👯 Colaboração para aplicar meus conhecimentos em C#.
+- 💜 Apaixonado por C#, sempre.
+- 😁 Especializando atualmente em Arquitetura Distribuída. 
 - ❤️ Amo boas práticas e padrões de design.
-- 🐵🦊🐯  Um apaixonado protetor dos indefesos, dedicado incansavelmente a cuidar dos animais, buscando criar um mundo onde suas vidas sejam valorizadas e respeitadas.
+
 
 ## Tecnologias de ponta
 
