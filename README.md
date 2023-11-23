@@ -6,8 +6,8 @@
 
 ## Sobre minha carreira
 - 🔭 DDD (Domain-Driven Design).
-- - 👯 Colaboração para aplicar meus conhecimentos em C#.
-- 💜 Apaixonado por C#, sempre.
+- - 👯 Ensinar, colaborar e aprender sempre!!!
+- 💜 Apaixonado por C#.
 - 😁 Especializando atualmente em Arquitetura Distribuída. 
 - ❤️ Amo boas práticas e padrões de design.
 
