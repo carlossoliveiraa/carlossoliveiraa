@@ -1,7 +1,7 @@
 #  Olá! sejam todos bem-vindos! 👋
 
 ## Sobre mim
-- 💑 Casado com Priscila e pai de uma cachorrinha chamda Bibi. Toco violão e viola 🎸.
+- 💑 Casado com Priscila e pai de uma cachorrinha chamada Bibi. Toco violão e viola caipira 🎸.
 -  🐱🐶🦜🦊  Um apaixonado por bichos! Dedicado incansavelmente a cuidar dos animais, buscando criar um mundo onde suas vidas sejam valorizadas e respeitadas.
 
 ## Sobre minha carreira
